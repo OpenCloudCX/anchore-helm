@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  anchore-engine:
+  - apiVersion: v2
+    appVersion: 1.13.0
+    description: Helm chart used to deploy Anchore for Kubernetes version.
+    name: anchore-engine
+    type: application
+    urls:
+    - https://opencloudcx.github.io/anchore-helm/anchore-engine-ajn-1.0.0.tgz
+    version: 1.13.0
+generated: "2020-11-13T14:01:44.631668894-05:00"
